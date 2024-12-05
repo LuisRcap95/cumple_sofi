@@ -1,0 +1,51 @@
+body {
+    background: #83a4d4; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right top, #efff3e, #c3ee4d, #9cdc5a, #7ac863, #5db369, #3aa979, #179e85, #00928c, #008ba2, #0081b4, #0073bd, #5860b5); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right top, #efff3e, #c3ee4d, #9cdc5a, #7ac863, #5db369, #3aa979, #179e85, #00928c, #008ba2, #0081b4, #0073bd, #5860b5);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+#container {
+    margin: 0px;
+}
+
+.slider-area {
+    position: absolute;
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-width: 160vw;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider_caption {
+    min-height: 100vh;
+    max-width: 100vw;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+h2 {
+    color: black;
+}
+
+
+#card_btn {
+    margin-top: 50px;
+    max-width: 200px;
+    cursor: pointer;
+    --animate-duration: 1700ms;
+}
