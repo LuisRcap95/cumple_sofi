@@ -36,7 +36,7 @@ const cuteTexts = [
         <span class="span-medieval">¡Hola! me alegro de verte. Parece que te han enviado la invitación para el cumpleaños de Sofi 👀
         eso signinfica que eres una persona importante y especial para ella 🥰<br><br>
         La fiesta será el día 4 de enero a las 5:00pm en la dirección<br>
-        <a href="https://maps.app.goo.gl/fCu4U66y1sVXphgn8">Pendiente</a><br>
+        <a href="https://maps.app.goo.gl/fCu4U66y1sVXphgn8">Av. Girasol 1, Las Huertas 1ra Secc, 53427 Naucalpan de Juárez, Méx.</a><br>
         Nota: Si puedes traer un regalo 🎁 eso le encantaría, por favor no faltes</span>
         <div class="btn-container">
             <button id="si" >¿Confirmas asistencia?</button>
